@@ -1,21 +1,29 @@
 body{
     background-color: blueviolet;
+    justify-content: center;
+            align-items: center;
 
 }
 #p{
     padding: 30px;
     margin: 40px;
+    width: auto;
+    height: auto;
+
 }
 #k{
     background-color:deepskyblue;
     color: white;
     width: 50%;
-    h1{font-weight: bold;
+    h1{font-weight: bolder;
     text-align: center;
     }
     p{
-        text-align: justify;
+        text-align: centersss;
+
     }
+
+
 
 
 }
@@ -36,5 +44,11 @@ body{
     button{
         display: block;
         margin: 0 auto;
-        color: deepskyblue;
+        color: white;
+        background-color: deepskyblue;
+        padding: 30px;
+        width: 35%;
+
+        border-radius: 40px;
+        text-align: center;
     }
